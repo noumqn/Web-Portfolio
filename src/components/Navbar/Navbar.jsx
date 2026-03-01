@@ -55,7 +55,7 @@ const Navbar = () => {
     <nav className="app__navbar">
       <div className="app__navbar-container">
         <div className="app__navbar-container_logo">
-          <p>Erys</p>
+          <p>Nouman</p>
         </div>
         <ul className="app__navbar-container_navlinks">
           <Menu />
@@ -90,7 +90,7 @@ const Navbar = () => {
               <img src={Instagram} alt="Instagram" />
             </a>
             <a
-              href="https://www.linkedin.com/in/erys-mozo-280190230/"
+              href="https://www.linkedin.com/in/noumqn/"
               target="blank"
             >
               <img src={LinkedIn} alt="LinkedIn" />

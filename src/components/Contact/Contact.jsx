@@ -20,28 +20,29 @@ const Contact = () => {
       <div className="app__contact-container">
         <div className="app__contact-container_contacts">
           <p className="app__contact-container_contacts-touch">
-            - Get in Touch
+            - Let's Connect
           </p>
-          <h2>Let's create progress together</h2>
+          <h2>Open to Opportunities</h2>
           <p>
-            For all inquiries, you can contact and message me on any of the
-            specified social medias below.
+            Whether you're looking to collaborate, have a project in mind, or
+            just want to say hi — reach out. I'm always open to meaningful
+            conversations.
           </p>
           <ul className="app__contact-container_contacts-links">
             <a href="https://web.facebook.com/erys.mozo/" target="blank">
               <img src={Facebook} alt="" />
-              Erys Mozo
+              Syed Nouman
             </a>
             <a href="https://www.instagram.com/_erysmozo/" target="blank">
               <img src={Instagram} alt="" />
-              _erysmozo
+              @syed.nouman
             </a>
             <a
-              href="https://www.linkedin.com/in/erys-mozo-280190230/"
+              href="https://www.linkedin.com/in/noumqn/"
               target="blank"
             >
               <img src={LinkedIn} alt="" />
-              Erys Mozo
+              Syed Nouman
             </a>
           </ul>
         </div>

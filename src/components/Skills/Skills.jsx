@@ -33,8 +33,12 @@ const Skills = () => {
         </p> */}
 
         <p className="app__skills-title_content">
-          As of this moment I'm currently learning best coding principle and
-          stack such as{" "}
+          I specialize in modern frontend development — turning complex
+          requirements into clean, responsive, and performant web applications.
+        </p>
+
+        <p className="app__skills-title_content">
+          My core stack centers around{" "}
           <a href="https://nextjs.org/" target="_blank" className="app__links">
             Next.js
           </a>{" "}
@@ -46,15 +50,13 @@ const Skills = () => {
           >
             TypeScript
           </a>
-          <p>
-            Soon enough I will learn Backend Development to become a Fullstack
-            Developer.
-          </p>
+          , with strong foundations in HTML, CSS/SASS, and JavaScript.
+          I'm continuously deepening my expertise to write better, more
+          scalable code.
         </p>
 
         <p className="app__skills-title_content">
-          These are the Tech Stack Tools I use as a developer in designing,
-          creating and establishing development projects.
+          Here are the tools and technologies I work with:
         </p>
       </div>
 
