@@ -40,32 +40,31 @@ const About = () => {
             expand my skillset. Thank you for considering me for your project. I
             am excited to bring my skills and expertise to your team and create
             something truly unique and impactful. */}
-            Hello! My name is Erys and I am a front end developer with a passion
-            for creating visually stunning and intuitive websites. With a strong
-            foundation in HTML, CSS, and JavaScript, I am able to bring designs
-            to life and create user experiences that are both functional and
-            enjoyable. I have a keen eye for detail and am always seeking ways
-            to improve the performance and functionality of a website. Outside
-            of work, I enjoy staying up-to-date on the latest web development
-            trends and techniques through online learning. I am always looking
-            for new challenges and opportunities to expand my skillset.
+            I'm Syed Nouman, a Frontend Developer with a passion for building
+            clean, performant, and user-centric web applications. I specialize
+            in translating designs into pixel-perfect, responsive interfaces
+            using modern JavaScript frameworks — with a strong eye for detail
+            and a focus on user experience.
           </p>
 
           <p>
-            I spend my time learning on technology especially Frontend
-            Development I consistently learn the concepts and tools behind and
-            building projects around it.
+            My core expertise lies in React.js, Next.js, and TypeScript,
+            complemented by solid foundations in HTML, CSS/SASS, and
+            JavaScript. I care deeply about writing maintainable code,
+            optimizing performance, and staying current with the evolving
+            frontend ecosystem.
           </p>
 
           <p>
-            I'm currently work as a Front End Developer at{" "}
+            I'm currently working as a Frontend Developer at{" "}
             <a
-              href="https://nexplay.gg/"
+              href="https://lockthreat.com/"
               target="_blank"
               className="app__links"
             >
-              Nexplay
+              Lockthreat
             </a>
+            , contributing to building secure, high-quality web products.
           </p>
         </div>
         <div className="app__about-container_image">

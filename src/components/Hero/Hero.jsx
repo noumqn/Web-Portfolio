@@ -28,7 +28,7 @@ const Hero = () => {
           />
           <TypeAnimation
             cursor={false}
-            sequence={[2000, "Erys Mozo"]}
+            sequence={[2000, "Syed Nouman"]}
             wrapper="h1"
             repeat={1}
             className="app__hero-container_text-name"
@@ -36,7 +36,7 @@ const Hero = () => {
 
           <TypeAnimation
             cursor={false}
-            sequence={[3000, "I enjoy creating stuffs."]}
+            sequence={[3000, "I craft seamless web experiences."]}
             wrapper="h2"
             repeat={1}
             className="app__hero-container_text-title"
@@ -45,11 +45,11 @@ const Hero = () => {
             cursor={false}
             sequence={[
               4500,
-              "I am a Front-End Developer",
-              500,
-              "I enjoy learning.tsx",
+              "Frontend Developer",
               1000,
-              "Let's learn from each other.",
+              "React & Next.js Enthusiast",
+              1000,
+              "Building the web, one component at a time.",
             ]}
             wrapper="h3"
             repeat={Infinity}
